@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 File3 for master branch
+
+
+Switched into Milan branch
+Date : 5-6-2020
+
